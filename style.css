@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    color: white;
 }
 body{
     background-image: linear-gradient(to right, rgb(37, 82, 37) , rgb(11, 49, 18));
@@ -65,6 +66,7 @@ body{
         height: auto;
         padding-bottom: 20px;
         background-color: rgb(9, 20, 9);
+        color: white;
     
     }
     #box_1 h1{
